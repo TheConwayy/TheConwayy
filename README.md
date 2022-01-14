@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheConwayy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Front-end web development
 - 💞️ I’m looking to collaborate on anything really! Always willing to learn!
 
 <!---
