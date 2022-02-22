@@ -2,6 +2,18 @@
   <img src="https://i.imgur.com/oJ2p8ny.png">
 </p>
 
+<h3 align="center">
+  👋 Hey there, my name is Devin
+</h3>
+
+<h2 align="center">
+  I'm a young: Developer 🖥️ & ES Enthusiast 🚓
+</h2>
+
+<p align="center">
+  I love to write code, solve problems, expand my knowledge and our lovely emergency services.
+</p>
+
 🔗 Connect With Me!
 ===================
 
@@ -29,14 +41,11 @@ You can find me & connect with me on:
 📈 Some Statistics
 ==================
 
-All Time:
-
+All Time:</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheConwayy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Top Languages:
-
+Top Languages:</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheConwayy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Weekly Stats:
-
+Weekly Stats:</br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevinConway&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
