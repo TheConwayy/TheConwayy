@@ -7,7 +7,13 @@
 
 You can find me & connect with me on:
 
-<a href=""><img src="https://user-images.githubusercontent.com/93283313/155210261-6d65d847-7824-47ee-b7ec-6127937c3811.png)"></a>
+<a href=""><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/twitter.png" width="21"align="left" alt="Devin Conway :: Twitter" /></a>
+<a href=""><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/instagram.png" width="21" align="left" alt="Devin Conway :: Instagram" /></a>
+</br>
+
+- 💬 If you ever have any questions, comments or concerns do *not* hesitate to reach out to me on any of these platforms!
+
+*Credits to [vidyavidz](https://www.flaticon.com/authors/vidyavidz), [pixel-perfect](https://www.flaticon.com/authors/pixel-perfect) and [hight-quality-icons](https://www.flaticon.com/authors/hight-quality-icons) for the icons above*
 
 🖥️ Tech Skillsets
 ==================
