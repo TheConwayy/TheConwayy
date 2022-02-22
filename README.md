@@ -9,12 +9,13 @@ You can find me & connect with me on:
 
 <a href=""><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/twitter.png" width="21" align="left" alt="Devin Conway :: Twitter" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/instagram.png" width="21" align="left" alt="Devin Conway :: Instagram" /></a>
-<a href=""><img src="" width="21" align="left" alt="Devin Conway :: Discord" /></a>
+<a href=""><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/discord.png" width="21" align="left" alt="Devin Conway :: Discord" /></a>
 </br>
 
 - 💬 If you ever have any questions, comments or concerns do *not* hesitate to reach out to me on any of these platforms!
 
-*Credits to [vidyavidz](https://www.flaticon.com/authors/vidyavidz), [pixel-perfect](https://www.flaticon.com/authors/pixel-perfect) and [hight-quality-icons](https://www.flaticon.com/authors/hight-quality-icons) for the icons above*
+*Credits to [vidyavidz](https://www.flaticon.com/authors/vidyavidz), [pixel-perfect](https://www.flaticon.com/authors/pixel-perfect) and [hight-quality-icons](https://www.flaticon.com/authors/hight-quality-icons) for the icons above*</br>
+*Slight edits were made to the icons to fit the theme of this page. No major altercations were made*
 
 🖥️ Tech Skillsets
 ==================
