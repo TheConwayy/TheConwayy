@@ -7,8 +7,9 @@
 
 You can find me & connect with me on:
 
-<a href=""><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/twitter.png" width="21"align="left" alt="Devin Conway :: Twitter" /></a>
+<a href=""><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/twitter.png" width="21" align="left" alt="Devin Conway :: Twitter" /></a>
 <a href=""><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/instagram.png" width="21" align="left" alt="Devin Conway :: Instagram" /></a>
+<a href=""><img src="" width="21" align="left" alt="Devin Conway :: Discord" /></a>
 </br>
 
 - 💬 If you ever have any questions, comments or concerns do *not* hesitate to reach out to me on any of these platforms!
