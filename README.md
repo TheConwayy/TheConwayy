@@ -62,7 +62,7 @@ All Time:</br>
 [![](https://github-readme-stats.vercel.app/api?username=TheConwayy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Top Languages:</br>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheConwayy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheConwayy&theme=dark&show_icons=true?exclude_repo=QuoteBot)](https://github.com/anuraghazra/github-readme-stats)
 
 Weekly Stats:</br>
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=DevinConway&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
