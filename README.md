@@ -19,9 +19,9 @@
 
 You can find me & connect with me on:
 
-<a href="https://twitter.com/DevinConwayy"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/twitter.png" width="21" align="left" alt="Devin Conway :: Twitter" /></a>
-<a href="https://www.instagram.com/devinconwayy/"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/instagram.png" width="21" align="left" alt="Devin Conway :: Instagram" /></a>
-<a href="https://discord.com/users/384010503824867328"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/discord.png" width="21" align="left" alt="Devin Conway :: Discord" /></a>
+<a href="https://twitter.com/DevinConwayy"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/twitter.png" width="30" align="left" alt="Devin Conway :: Twitter" /></a>
+<a href="https://www.instagram.com/devinconwayy/"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/instagram.png" width="30" align="left" alt="Devin Conway :: Instagram" /></a>
+<a href="https://discord.com/users/384010503824867328"><img src="https://raw.githubusercontent.com/TheConwayy/TheConwayy/main/imgs/discord.png" width="30" align="left" alt="Devin Conway :: Discord" /></a>
 </br>
 
 - 💬 If you ever have any questions, comments or concerns do *not* hesitate to reach out to me on any of these platforms!
