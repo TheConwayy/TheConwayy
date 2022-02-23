@@ -45,6 +45,7 @@ You can find me & connect with me on:
 - Updating [QuoteBot](https://github.com/TheConwayy/QuoteBot) to a better Discord API library for Python
 - A [FiveM](https://fivem.net) community
 - 🌱 Expanding my knowledge in the programming community
+- READMEs lol
 
 💡 Currently Learning
 =====================
