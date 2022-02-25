@@ -41,7 +41,7 @@ You can find me & connect with me on:
 📑 Currently Working on
 =======================
 
-- *"Modinator"* Discord Bot *(Repo coming soon)*
+- [*"Modinator"*](https://github.com/TheConwayy/Modinator-LITE) Discord Bot 
 - Updating [QuoteBot](https://github.com/TheConwayy/QuoteBot) to a better Discord API library for Python
 - A [FiveM](https://fivem.net) community
 - 🌱 Expanding my knowledge in the programming community
