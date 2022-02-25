@@ -1,18 +1,21 @@
-<p align="center">
-  <img src="https://i.imgur.com/oJ2p8ny.png">
-</p>
+<div align='center'>
+  <p>
+    <img src="https://i.imgur.com/oJ2p8ny.png">
+  </p>
 
-<h4 align="center">
-  👋 Hey there, my name is Devin
-</h4>
+  <h4>
+    👋 Hey there, my name is Devin
+  </h4>
 
-<h2 align="center">
-  I'm a young: Developer 🖥️ & ES Enthusiast 🚓
-</h2>
+  <h2>
+    I'm a young: Developer 🖥️ & ES Enthusiast 🚓
+  </h2>
 
-<p align="center">
-  I love to write code, solve problems, expand my knowledge and our lovely emergency services.
-</p>
+  <p>
+    I love to write code, solve problems, expand my knowledge and our lovely emergency services.
+  </p>
+</div>
+
 
 🔗 Connect With Me!
 ===================
